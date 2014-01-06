@@ -1,6 +1,6 @@
 === Woocommerce Clear on Browser Close===
 Contributors: maksbd19
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=453VDL4HEHWKQ
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WPKMBQPSG5QQC
 Tags: woocommerce, clear-cart, browser, cart
 Requires at least: 3.0.1
 Tested up to: 3.8
